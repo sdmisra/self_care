@@ -5,14 +5,10 @@ This project features a basic affirmation and mantra suggestion interface for th
 
 ### Installation Instructions:
 
-Step 1: Visit https://github.com/sdmisra/self_care\
-
-Step 2: Clone the repo to a desired directory within your computer\
-
-Step 3: Open the index.html file in your browser window.\
-
-Step 4: Set up computer or laptop near preferred meditation or relaxation setting.\
-
+Step 1: Visit https://github.com/sdmisra/self_care
+Step 2: Clone the repo to a desired directory within your computer
+Step 3: Open the index.html file in your browser window.
+Step 4: Set up computer or laptop near preferred meditation or relaxation setting.
 Step 5: Use selection options and Recieve Message button to give yourself a little boost towards a meditative or relaxing moment!
 
 ### Preview of App:
