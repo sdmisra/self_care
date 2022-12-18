@@ -3,21 +3,22 @@
 ### Abstract:
 This project features a basic affirmation and mantra suggestion interface for those trying to get into meditation or positive-thinking strategies. A user can use this page to offer themselves positive perspectives or phrases, with the simple selection between affirmations and mantras and the click of a button to reveal a random phrase or saying. 
 
-### Installation Instructions:\
+### Installation Instructions:
 Step 1: Visit https://github.com/sdmisra/self_care\
 Step 2: Clone the repo to a desired directory within your computer\
 Step 3: Open the index.html file in your browser window.\
 Step 4: Set up computer or laptop near preferred meditation or relaxation setting.\
-Step 5: Use selection options and Recieve Message button to give yourself a little boost towards a meditative or relaxing moment!\
+Step 5: Use selection options and Recieve Message button to give yourself a little boost towards a meditative or relaxing moment!
 
 ### Preview of App:
-App-in-Action img here.
-
+<img width="1044" alt="App-in-Action" src="https://user-images.githubusercontent.com/117242156/208322209-89885f22-deb5-4cdc-8419-895cd8aaae25.png">
 ### Context:
 This project was assigned in Week 3 of Module 1 for Front End students of Turing, Cohort 2211. It was given as a Solo Challenge project to complete alongside leaving to winter break, initially given on Tuesday, December 13th. Work for this project was done between the 13th and the 18th, and submitted the evening of the 18th.
 
 ### Contributors:
-Shane Misra
+Shane Misra:
+
+https://github.com/sdmisra
 
 ### Learning Goals:
 The main learning goals for this project were:
