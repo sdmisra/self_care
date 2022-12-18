@@ -32,7 +32,7 @@ The main learning goals for this project were:
 
 ## Wins:
 1. While challenging, I was able to build the project to comp very closely, and I learned a lot of the vocabulary and syntax of HTML and CSS while doing so.
-2. My project feels satisfying to interact with - something I would hope for in general with any websites or web-based apps I create in general.
+2. My project feels satisfying to interact with - something I would hope for in general with any websites or web-based apps I create.
 3. I was able to create this project with almost no outside assistance at all - I purposefully demanded of myself that I find the solutions to all obstacles without relying on others, unless given no other choice. The main exception to this was using my RomCom project (that I completed with Michael Lobato a week prior) as a reference multiple times for syntax and for the randomindex function that we were given at the onset of that project. Given the solitary nature of the workflow here, I was pleased with the final result.
 
 
